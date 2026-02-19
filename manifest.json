@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-auto-delete",
+  "name": "Timed Auto-Delete Notes",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically delete notes older than a configured number of days from a target folder.",
+  "author": "Cody Bontecou",
+  "authorUrl": "https://github.com/CodyBontecou",
+  "isDesktopOnly": false
+}
