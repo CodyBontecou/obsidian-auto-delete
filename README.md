@@ -59,6 +59,11 @@ npm run dev    # watch mode (rebuilds on save)
 npm run build  # production build
 ```
 
+
+## Inspiration
+
+This plugin was built in response to a request by u/amphyvi in [this Reddit thread](https://www.reddit.com/r/ObsidianMD/comments/1r8vw0w/anyone_have_a_plugin_request/) — a plugin that auto-deletes notes after a set number of days.
+
 ## License
 
 MIT
