@@ -1,5 +1,5 @@
 {
-  "id": "obsidian-auto-delete",
+  "id": "auto-delete-notes",
   "name": "Timed Auto-Delete Notes",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
